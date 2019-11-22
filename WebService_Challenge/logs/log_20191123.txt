@@ -1,0 +1,11 @@
+2019-11-23 00:00:15,056 [49] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
+2019-11-23 00:01:21,641 [42] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
+2019-11-23 00:03:53,440 [46] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
+2019-11-23 00:06:48,144 [38] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
+2019-11-23 00:08:41,625 [47] INFO  WebService_Challenge.Logger - Call Web Service XmlToJson.
+2019-11-23 00:08:43,628 [47] ERROR WebService_Challenge.Logger - Error calling Web Service XmlToJson. Input XML is not well formed : La balise de début 'foo' sur la ligne 1 à la position 2 ne correspond pas à la balise de fin de 'bar'. Ligne 1, position 13.
+2019-11-23 00:08:54,202 [38] INFO  WebService_Challenge.Logger - Call Web Service XmlToJson.
+2019-11-23 00:09:02,880 [30] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
+2019-11-23 00:09:06,133 [32] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
+2019-11-23 00:09:10,489 [47] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
+2019-11-23 00:10:21,721 [47] INFO  WebService_Challenge.Logger - Call Web Service Fibonacci.
